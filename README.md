@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">I'm a Professional Information Security Analyst</h3>
 
-- 🌱 I’m currently learning **Cybersecurity tools and frameworks**
+- I'm a certified Cybersecurity Analyst (CompTIA CySA+)
+- 🌱 I’m currently learning **Company Cybersecurity tools and frameworks**
 
-- 📫 How to reach me **jasnnguyen@gmail.com**
+- 📫 How to reach me Email: **jasnnguyen@gmail.com**, Discord: **j.ayson**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
