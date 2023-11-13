@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">I'm a Professional Information Security Analyst</h3>
 
-- I'm a certified Cybersecurity Analyst (CompTIA CySA+)
+- I'm a certified Cybersecurity Analyst (CompTIA CySA+) & Google Cybersecurity Professional certification
+- I graduated from Per Scholas Cybersecurity professional training in September 15th 2023.
 - 🌱 I’m currently learning **Company Cybersecurity tools and frameworks**
 
 - 📫 How to reach me Email: **jasnnguyen@gmail.com**, Discord: **j.ayson**
