@@ -7,6 +7,9 @@
 
 - 📫 How to reach me Email: **jasnnguyen@gmail.com**, Discord: **j.ayson**
 
+Cybersecurity Projects:
+- <a href="https://github.com/jasnnh/MultiLanNetworkOPNsense">Virtual Lab Multi Lan Network w/ OPNsense firewall</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
