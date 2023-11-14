@@ -3,7 +3,7 @@
 
 - I'm a certified Cybersecurity Analyst (CompTIA CySA+), Google Cybersecurity Professional certification, (ISC)² Certified in Cybersecurity (CC)
 - I graduated from Per Scholas Cybersecurity professional training in September 15th 2023.
-- 🌱 I’m currently learning **Company Cybersecurity tools and frameworks**
+- 🌱 I’m currently learning **Company Cybersecurity tools and frameworks**, every organization/company has their own different set of tools.
 
 - 📫 How to reach me Email: **jasnnguyen@gmail.com**, Discord: **j.ayson**
 
