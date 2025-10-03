@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">I'm a Professional Information Security Analyst</h3>
+<h3 align="center">I'm a Professional Information Security Analyst & Security Compliance</h3>
 
 - I'm a certified Cybersecurity Analyst (CompTIA CySA+), Google Cybersecurity Professional certification, (ISC)² Certified in Cybersecurity (CC)
 - I graduated from Per Scholas Cybersecurity professional training in September 15th 2023.
