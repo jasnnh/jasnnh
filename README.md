@@ -10,6 +10,7 @@
   
 AI Project:
 - <a href="https://github.com/jasnnh/GoogleGeminiAI/">Python Google Gemini AI Prompt using API</a>
+- <a href="https://github.com/jasnnh/VoiceGeminiAI/">C++ Voice Command Google Gemini AI</a>
 
 Cybersecurity Projects:
 - <a href="https://github.com/jasnnh/pyWall">Python Firewall Anti SYN Flood/DDOS IP & Port Block</a>
