@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Company Cybersecurity tools and frameworks**, every organization/company has their own different set of tools.
 
 - 📫 How to reach me Email: **jasnnguyen@gmail.com**, Discord: **j.ayson**
+AI Project:
+- <a href="https://github.com/jasnnh/GoogleGeminiAI/">Python Google Gemini AI Prompt using API</a>
 
 Cybersecurity Projects:
 - <a href="https://github.com/jasnnh/pyWall">Python Firewall Anti SYN Flood/DDOS IP & Port Block</a>
